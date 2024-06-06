@@ -1,0 +1,18 @@
+{
+    "version": "2",
+    "framework": "laravel",
+    "functions": [
+      {
+        "sourceDir": "public",
+        "handler": "index.php",
+        "runtime": "vercel-php@0.6.0"
+      }
+    ],
+    "build": {
+      "command": "npm run build",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+  
