@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "framework": "laravel",
+    "framework": "php",
     "functions": [
       {
         "sourceDir": "public",
